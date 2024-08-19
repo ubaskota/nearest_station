@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import reverse_geocode
 
 
-api_key = "AIzaSyA9d0laVd5VYvCGJgTKC1OxNAwJ0HOnb6o"
+api_key = ""
 
 
 def prompt_user_input_and_validate():
