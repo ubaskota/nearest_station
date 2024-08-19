@@ -1,0 +1,7 @@
+Flask==2.3.3
+requests==2.31.0
+lxml==4.9.3
+geopy==2.3.0
+beautifulsoup4==4.12.2
+cachetools==5.5.0
+reverse_geocode==1.6.5
