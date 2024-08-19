@@ -13,7 +13,7 @@ from implementation import prompt_user_input_and_validate, calculateNearestStati
 
 app = Flask(__name__)
 
-api_key = "AIzaSyA9d0laVd5VYvCGJgTKC1OxNAwJ0HOnb6o"
+api_key = ""   #Insert your api key here
 cache = TTLCache(maxsize=100, ttl=3600)  # 1-hour TTL
 station_data = []
 station_data_dc = []
